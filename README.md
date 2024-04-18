@@ -10,6 +10,10 @@
                                                                                                                                 
     ⊹˚₊‧─────────────────────────────────────────────────────────────────────────────────────────────────────────────────‧₊˚⊹
 
+    +++ Reach me: cadelvalledieguez@gmail.com +++
+    +++ Connect with me: [Linkedin](https://www.linkedin.com/in/carlos-del-valle-71881371/) +++ 
+    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 
 <!--
 
