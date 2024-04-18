@@ -50,8 +50,9 @@ Future Add: "I am involved in ... (Ex MakersSpace etc)
 Future Add: Invite visitors to join source projects here.
 Future Add: Blog post here + Link 
 
-Badges Source: https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md?plain=1
 
+Badges Source: https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md?plain=1
+More Badges to add: https://github.com/henriquesebastiao/badges
 ¯\_(ツ)_/¯
 
 ═════════════════════════════════════════════════════════ ⋆★⋆ ══════════════════════════════════════════════════════════
