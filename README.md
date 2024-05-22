@@ -41,7 +41,7 @@
   &nbsp;<br>
   
   #### Get in touch_
-  +++ Reach me: [:envelope:](cadelvalledieguez@gmail.com)<br>
+  +++ Reach me: [:envelope:](hello@carlosdelvalle.dev)<br>
   +++ Connect with me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/carlos-del-valle-71881371/)
   
 <!--
