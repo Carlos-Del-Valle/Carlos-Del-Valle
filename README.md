@@ -12,7 +12,7 @@
 
   #### Greetings, World_
   +++ Welcome to my GitHub profile! I'm Carlos Del Valle, a Front-End developer with a background in UI/UX design, the Arts and academic research. Spaniard, based in Melbourne.
-  Please, feel free to visit my portfolio website [here](https://carlosdelvalle.xyz/).
+  Please, feel free to visit my portfolio website [here](https://carlosdelvalle.dev/).
   &nbsp;<br>
   &nbsp;<br>
   #### Work in progress (April 2024)_
