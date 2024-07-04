@@ -42,7 +42,7 @@
   
   #### Get in touch_
   +++ Reach me: hello@carlosdelvalle.dev<br>
-  +++ Connect with me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/carlos-del-valle-71881371/)
+  +++ Connect with me: [LinkedIn](https://www.linkedin.com/in/carlos-del-valle-71881371/)
   
 <!--
 
